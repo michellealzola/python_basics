@@ -1,0 +1,181 @@
+Date,Shift,Batch ID,Printer Model,Paper Size,Machine ID,Feed Motor RPM,Roller Speed (mm/s),Skew Angle (°),Encoder Count per Rotation,Pickup Roller Wear (%),Paper Tray Capacity (sheets),Paper Thickness (mm),Jam Detection,Misfeed Detection,Double Feed Detection,Skew Detection,Paper Feed Time (ms),Feed Accuracy (%),Sensor Calibration Status,Operator ID,Pass/Fail
+2025-04-01,Shift 1,FEED7674,EcoTank ET-3850,Letter,Feed Line B,201,63.3,-0.23,1238,76.7,196,0.15,Pass,Fail,Fail,Pass,1172.7,97.96,Not Calibrated,TECH938,Pass
+2025-04-01,Shift 1,FEED8629,EcoTank ET-2800,5x7,Feed Line B,251,53.9,0.87,551,35.4,120,0.122,Fail,Fail,Pass,Fail,617.0,99.01,Calibrated,TECH529,Pass
+2025-04-01,Shift 1,FEED2989,WorkForce WF-2850,A4,Feed Line B,259,116.0,-0.25,1045,21.5,138,0.09,Pass,Fail,Pass,Pass,348.1,97.74,Calibrated,TECH797,Pass
+2025-04-01,Shift 2,FEED4157,WorkForce WF-2850,Legal,Feed Line B,194,91.5,-0.17,1198,34.8,128,0.094,Pass,Fail,Fail,Pass,467.1,99.59,Not Calibrated,TECH253,Pass
+2025-04-01,Shift 2,FEED9354,L3210,4x6,Feed Line C,210,88.2,0.84,1409,1.6,212,0.143,Fail,Pass,Pass,Fail,1076.5,98.76,Not Calibrated,TECH166,Pass
+2025-04-01,Shift 2,FEED4425,L3210,5x7,Feed Line B,296,86.6,0.83,669,82.3,208,0.099,Fail,Fail,Fail,Fail,652.4,95.37,Calibrated,TECH621,Fail
+2025-04-02,Shift 1,FEED5458,L3210,A4,Feed Line A,276,75.9,0.31,524,20.0,241,0.116,Pass,Pass,Pass,Pass,1074.3,95.65,Not Calibrated,TECH685,Fail
+2025-04-02,Shift 1,FEED1781,WorkForce WF-2850,5x7,Feed Line A,285,105.1,0.34,602,9.4,218,0.111,Pass,Pass,Pass,Pass,1042.2,97.39,Not Calibrated,TECH126,Pass
+2025-04-02,Shift 1,FEED4904,L5290,5x7,Feed Line B,286,115.0,0.02,614,36.0,220,0.099,Pass,Fail,Fail,Pass,322.0,98.24,Calibrated,TECH827,Pass
+2025-04-02,Shift 2,FEED9953,L3210,4x6,Feed Line B,286,104.8,0.31,829,60.9,167,0.106,Pass,Fail,Pass,Pass,963.9,95.29,Not Calibrated,TECH730,Fail
+2025-04-02,Shift 2,FEED7999,L3210,5x7,Feed Line A,169,128.5,0.8,648,60.7,66,0.088,Pass,Fail,Pass,Pass,820.0,95.13,Not Calibrated,TECH884,Fail
+2025-04-02,Shift 2,FEED6363,L3210,Legal,Feed Line A,202,60.9,0.94,749,0.3,244,0.114,Fail,Fail,Fail,Fail,705.5,97.77,Not Calibrated,TECH143,Pass
+2025-04-03,Shift 1,FEED6335,EcoTank ET-3850,Legal,Feed Line B,181,124.1,-0.79,1194,52.7,70,0.108,Pass,Fail,Fail,Pass,643.2,97.23,Not Calibrated,TECH307,Pass
+2025-04-03,Shift 1,FEED5980,EcoTank ET-3850,Letter,Feed Line B,192,126.7,-0.48,698,11.9,198,0.081,Pass,Fail,Fail,Pass,379.0,96.22,Calibrated,TECH138,Pass
+2025-04-03,Shift 1,FEED2379,EcoTank ET-2800,4x6,Feed Line A,170,121.4,-0.25,567,36.9,203,0.101,Pass,Pass,Fail,Pass,790.1,98.22,Not Calibrated,TECH111,Pass
+2025-04-03,Shift 2,FEED5981,EcoTank ET-3850,Legal,Feed Line A,159,141.0,-0.38,893,67.8,52,0.086,Fail,Fail,Pass,Pass,521.1,96.88,Calibrated,TECH664,Pass
+2025-04-03,Shift 2,FEED2212,L5290,4x6,Feed Line B,183,95.9,-0.94,1331,59.2,197,0.093,Pass,Pass,Pass,Fail,412.0,99.54,Calibrated,TECH847,Pass
+2025-04-03,Shift 2,FEED2330,WorkForce WF-2850,Letter,Feed Line C,212,110.3,0.54,884,26.0,64,0.136,Pass,Pass,Pass,Pass,448.8,96.69,Calibrated,TECH927,Pass
+2025-04-04,Shift 1,FEED7442,L5290,5x7,Feed Line B,212,88.4,0.43,1279,84.5,189,0.088,Fail,Pass,Fail,Pass,505.7,96.28,Calibrated,TECH537,Fail
+2025-04-04,Shift 1,FEED4628,L3210,Letter,Feed Line A,282,131.4,0.76,753,62.1,167,0.142,Pass,Fail,Pass,Pass,899.8,99.45,Not Calibrated,TECH918,Pass
+2025-04-04,Shift 1,FEED1062,EcoTank ET-2800,4x6,Feed Line B,219,120.2,0.38,813,79.3,206,0.147,Pass,Pass,Pass,Pass,481.4,96.3,Not Calibrated,TECH256,Pass
+2025-04-04,Shift 2,FEED5606,EcoTank ET-3850,4x6,Feed Line A,226,102.9,0.98,1321,84.3,220,0.117,Pass,Pass,Fail,Fail,579.1,99.53,Calibrated,TECH938,Fail
+2025-04-04,Shift 2,FEED4755,WorkForce WF-2850,4x6,Feed Line B,282,76.8,0.64,808,18.7,71,0.084,Fail,Pass,Fail,Pass,369.2,98.58,Calibrated,TECH588,Pass
+2025-04-04,Shift 2,FEED9988,L5290,Letter,Feed Line A,284,83.7,0.85,759,43.2,233,0.139,Pass,Fail,Pass,Fail,629.0,97.66,Calibrated,TECH531,Pass
+2025-04-05,Shift 1,FEED7526,EcoTank ET-3850,Legal,Feed Line A,281,121.7,0.64,1411,24.2,50,0.146,Pass,Fail,Pass,Pass,603.0,98.57,Not Calibrated,TECH650,Pass
+2025-04-05,Shift 1,FEED4601,WorkForce WF-2850,4x6,Feed Line C,207,53.0,0.78,1352,12.6,214,0.106,Pass,Fail,Pass,Pass,982.1,99.66,Calibrated,TECH351,Pass
+2025-04-05,Shift 1,FEED4385,L3210,Legal,Feed Line A,188,143.5,0.6,1272,2.0,92,0.127,Fail,Pass,Pass,Pass,1008.0,97.59,Not Calibrated,TECH629,Pass
+2025-04-05,Shift 2,FEED6028,EcoTank ET-2800,Legal,Feed Line C,286,53.4,0.4,1306,56.9,211,0.115,Fail,Pass,Pass,Pass,421.2,97.06,Calibrated,TECH749,Pass
+2025-04-05,Shift 2,FEED5476,EcoTank ET-2800,A4,Feed Line B,293,59.8,0.06,1378,84.5,76,0.104,Fail,Pass,Pass,Pass,713.4,98.17,Not Calibrated,TECH928,Fail
+2025-04-05,Shift 2,FEED5492,WorkForce WF-2850,4x6,Feed Line B,150,132.6,0.19,1401,21.6,103,0.13,Fail,Pass,Fail,Pass,637.6,99.39,Not Calibrated,TECH898,Pass
+2025-04-06,Shift 1,FEED4238,L5290,A4,Feed Line B,192,73.5,0.65,857,63.5,224,0.083,Pass,Pass,Fail,Pass,812.2,98.17,Not Calibrated,TECH259,Pass
+2025-04-06,Shift 1,FEED3579,WorkForce WF-2850,4x6,Feed Line B,204,107.8,-0.99,1225,23.1,232,0.112,Fail,Fail,Pass,Fail,603.2,95.84,Not Calibrated,TECH338,Fail
+2025-04-06,Shift 1,FEED3196,EcoTank ET-2800,Letter,Feed Line B,151,134.2,0.69,1390,36.8,216,0.1,Pass,Fail,Pass,Pass,748.7,98.08,Calibrated,TECH287,Pass
+2025-04-06,Shift 2,FEED3233,EcoTank ET-3850,5x7,Feed Line C,165,122.1,-0.37,565,40.9,248,0.081,Fail,Fail,Fail,Pass,1054.6,95.78,Calibrated,TECH827,Fail
+2025-04-06,Shift 2,FEED8853,L5290,Legal,Feed Line A,297,135.9,-0.51,1336,57.5,108,0.12,Fail,Pass,Fail,Pass,825.0,98.53,Calibrated,TECH997,Pass
+2025-04-06,Shift 2,FEED9368,WorkForce WF-2850,Legal,Feed Line A,297,94.2,0.73,714,72.3,53,0.088,Fail,Pass,Fail,Pass,716.4,99.82,Not Calibrated,TECH738,Pass
+2025-04-07,Shift 1,FEED6171,L3210,4x6,Feed Line A,249,88.0,0.09,953,94.3,122,0.099,Fail,Pass,Pass,Pass,636.6,98.96,Not Calibrated,TECH316,Fail
+2025-04-07,Shift 1,FEED5350,EcoTank ET-2800,Letter,Feed Line B,257,101.9,0.84,1499,33.2,249,0.092,Pass,Pass,Fail,Fail,863.4,97.29,Not Calibrated,TECH245,Pass
+2025-04-07,Shift 1,FEED7312,EcoTank ET-3850,A4,Feed Line C,223,75.1,-0.23,580,2.1,72,0.082,Pass,Fail,Fail,Pass,741.3,99.51,Calibrated,TECH968,Pass
+2025-04-07,Shift 2,FEED8272,L3210,5x7,Feed Line C,253,139.8,-0.35,1172,54.2,144,0.14,Pass,Fail,Pass,Pass,968.0,98.26,Calibrated,TECH615,Pass
+2025-04-07,Shift 2,FEED6320,WorkForce WF-2850,5x7,Feed Line C,243,96.4,-0.45,626,21.9,217,0.104,Pass,Pass,Fail,Pass,1109.7,99.18,Calibrated,TECH642,Pass
+2025-04-07,Shift 2,FEED5485,EcoTank ET-2800,A4,Feed Line A,178,110.4,0.56,569,68.3,235,0.102,Fail,Fail,Pass,Pass,617.5,99.72,Calibrated,TECH965,Pass
+2025-04-08,Shift 1,FEED1293,EcoTank ET-3850,4x6,Feed Line C,202,128.7,0.18,1407,57.8,117,0.133,Pass,Pass,Pass,Pass,802.8,95.61,Calibrated,TECH208,Fail
+2025-04-08,Shift 1,FEED3100,L3210,Letter,Feed Line B,172,56.8,-0.9,569,37.5,169,0.123,Fail,Fail,Fail,Fail,1199.7,96.63,Calibrated,TECH366,Pass
+2025-04-08,Shift 1,FEED8591,EcoTank ET-3850,A4,Feed Line B,201,141.2,-0.58,1024,37.1,244,0.134,Fail,Pass,Fail,Pass,446.7,99.13,Calibrated,TECH880,Pass
+2025-04-08,Shift 2,FEED6805,L3210,4x6,Feed Line C,195,117.9,-0.76,1133,65.5,222,0.146,Pass,Pass,Fail,Pass,906.1,97.55,Not Calibrated,TECH564,Pass
+2025-04-08,Shift 2,FEED2241,L5290,4x6,Feed Line B,226,81.9,0.1,984,82.9,186,0.089,Pass,Pass,Fail,Pass,446.5,99.77,Calibrated,TECH447,Fail
+2025-04-08,Shift 2,FEED7447,EcoTank ET-3850,Legal,Feed Line C,234,124.0,0.21,838,57.7,211,0.118,Fail,Fail,Fail,Pass,1140.3,96.92,Not Calibrated,TECH552,Pass
+2025-04-09,Shift 1,FEED2996,WorkForce WF-2850,Legal,Feed Line B,187,59.8,-0.54,1113,34.1,186,0.107,Pass,Fail,Fail,Pass,344.1,95.7,Not Calibrated,TECH663,Fail
+2025-04-09,Shift 1,FEED5120,WorkForce WF-2850,4x6,Feed Line C,249,115.6,-0.38,1381,68.4,135,0.137,Fail,Fail,Fail,Pass,878.4,96.61,Calibrated,TECH312,Pass
+2025-04-09,Shift 1,FEED4882,L3210,A4,Feed Line A,226,58.0,-0.43,1450,79.4,106,0.149,Pass,Fail,Pass,Pass,514.2,95.7,Calibrated,TECH854,Fail
+2025-04-09,Shift 2,FEED4335,EcoTank ET-3850,Legal,Feed Line A,259,109.2,-0.67,1187,89.0,76,0.104,Pass,Pass,Fail,Pass,996.6,95.13,Calibrated,TECH869,Fail
+2025-04-09,Shift 2,FEED5220,L5290,Legal,Feed Line C,236,70.2,-0.64,1281,24.1,212,0.094,Fail,Fail,Fail,Pass,587.6,96.04,Not Calibrated,TECH166,Pass
+2025-04-09,Shift 2,FEED8363,EcoTank ET-3850,Letter,Feed Line C,205,95.9,0.67,1326,80.5,101,0.133,Pass,Pass,Pass,Pass,914.1,97.52,Calibrated,TECH340,Fail
+2025-04-10,Shift 1,FEED5442,WorkForce WF-2850,4x6,Feed Line C,229,70.2,-0.43,845,92.5,90,0.14,Pass,Fail,Fail,Pass,1051.4,95.27,Not Calibrated,TECH802,Fail
+2025-04-10,Shift 1,FEED8889,L3210,5x7,Feed Line A,257,52.9,-0.66,752,92.9,139,0.109,Pass,Fail,Fail,Pass,635.5,96.53,Calibrated,TECH174,Fail
+2025-04-10,Shift 1,FEED8057,L5290,5x7,Feed Line C,166,128.1,0.36,512,49.9,179,0.09,Pass,Fail,Pass,Pass,754.5,99.44,Not Calibrated,TECH422,Pass
+2025-04-10,Shift 2,FEED9311,L3210,A4,Feed Line A,248,129.6,0.72,645,82.2,107,0.091,Fail,Fail,Fail,Pass,1168.6,96.16,Calibrated,TECH845,Fail
+2025-04-10,Shift 2,FEED7600,L3210,Legal,Feed Line C,204,53.6,-0.12,727,1.2,142,0.124,Pass,Pass,Fail,Pass,1132.4,95.52,Calibrated,TECH204,Fail
+2025-04-10,Shift 2,FEED5211,L5290,4x6,Feed Line C,267,96.1,-0.33,1475,43.4,129,0.104,Pass,Pass,Fail,Pass,689.1,95.69,Calibrated,TECH902,Fail
+2025-04-11,Shift 1,FEED3572,EcoTank ET-2800,5x7,Feed Line B,261,100.9,-0.43,640,70.8,108,0.11,Fail,Fail,Fail,Pass,739.1,95.18,Not Calibrated,TECH227,Fail
+2025-04-11,Shift 1,FEED2681,WorkForce WF-2850,Letter,Feed Line A,285,53.4,-0.93,1473,25.7,119,0.088,Fail,Pass,Pass,Fail,749.0,99.23,Calibrated,TECH785,Pass
+2025-04-11,Shift 1,FEED4108,L3210,5x7,Feed Line B,226,125.8,0.17,1382,44.8,225,0.132,Pass,Pass,Fail,Pass,527.6,96.71,Calibrated,TECH548,Pass
+2025-04-11,Shift 2,FEED8447,WorkForce WF-2850,Legal,Feed Line B,289,62.1,0.58,546,26.1,136,0.142,Fail,Fail,Pass,Pass,432.4,98.27,Not Calibrated,TECH560,Pass
+2025-04-11,Shift 2,FEED6018,WorkForce WF-2850,4x6,Feed Line A,203,63.5,-0.49,1426,95.1,143,0.14,Fail,Pass,Fail,Pass,1103.7,98.49,Not Calibrated,TECH816,Fail
+2025-04-11,Shift 2,FEED5645,L3210,Legal,Feed Line A,226,132.1,0.13,1398,16.4,103,0.092,Fail,Pass,Pass,Pass,343.6,99.04,Calibrated,TECH370,Pass
+2025-04-12,Shift 1,FEED1371,L3210,5x7,Feed Line C,178,66.3,-0.19,727,44.1,140,0.145,Fail,Pass,Pass,Pass,979.7,98.72,Not Calibrated,TECH577,Pass
+2025-04-12,Shift 1,FEED6205,WorkForce WF-2850,4x6,Feed Line A,180,115.4,0.42,664,84.9,105,0.114,Pass,Fail,Fail,Pass,447.4,98.71,Not Calibrated,TECH982,Fail
+2025-04-12,Shift 1,FEED9948,WorkForce WF-2850,A4,Feed Line A,267,77.9,-0.4,1078,65.7,182,0.144,Fail,Pass,Pass,Pass,389.3,97.56,Calibrated,TECH359,Pass
+2025-04-12,Shift 2,FEED5659,EcoTank ET-2800,Letter,Feed Line A,185,109.8,0.96,703,50.8,129,0.125,Fail,Pass,Fail,Fail,954.3,98.52,Calibrated,TECH804,Pass
+2025-04-12,Shift 2,FEED9192,L3210,4x6,Feed Line C,173,102.9,0.22,1151,85.9,164,0.131,Pass,Pass,Pass,Pass,1111.3,95.16,Not Calibrated,TECH304,Fail
+2025-04-12,Shift 2,FEED3897,WorkForce WF-2850,Legal,Feed Line C,165,119.7,0.1,871,78.7,166,0.083,Fail,Fail,Pass,Pass,794.7,95.72,Calibrated,TECH103,Fail
+2025-04-13,Shift 1,FEED9321,EcoTank ET-2800,4x6,Feed Line C,212,121.4,-0.95,1004,91.0,210,0.121,Fail,Pass,Pass,Fail,305.9,97.15,Not Calibrated,TECH471,Fail
+2025-04-13,Shift 1,FEED5436,WorkForce WF-2850,A4,Feed Line A,150,102.3,-0.66,1473,28.1,247,0.117,Pass,Fail,Fail,Pass,334.6,98.31,Calibrated,TECH111,Pass
+2025-04-13,Shift 1,FEED5652,EcoTank ET-2800,4x6,Feed Line A,163,120.3,0.04,1440,24.1,228,0.125,Pass,Fail,Pass,Pass,893.2,96.39,Not Calibrated,TECH545,Pass
+2025-04-13,Shift 2,FEED2509,EcoTank ET-2800,Legal,Feed Line A,266,116.3,0.93,1409,82.7,187,0.12,Pass,Fail,Pass,Fail,1022.3,99.37,Calibrated,TECH854,Fail
+2025-04-13,Shift 2,FEED4890,EcoTank ET-3850,Letter,Feed Line A,229,115.8,0.98,711,15.2,93,0.102,Pass,Fail,Pass,Fail,844.9,99.15,Not Calibrated,TECH164,Pass
+2025-04-13,Shift 2,FEED4509,WorkForce WF-2850,Letter,Feed Line C,230,82.2,0.46,1045,70.4,65,0.103,Fail,Pass,Pass,Pass,1161.3,95.97,Calibrated,TECH208,Fail
+2025-04-14,Shift 1,FEED4903,WorkForce WF-2850,5x7,Feed Line B,178,72.9,0.5,1328,39.4,66,0.148,Fail,Fail,Pass,Pass,321.6,99.7,Not Calibrated,TECH583,Pass
+2025-04-14,Shift 1,FEED9913,L5290,4x6,Feed Line A,293,141.4,0.88,1355,21.6,187,0.093,Pass,Pass,Pass,Fail,445.5,99.54,Calibrated,TECH650,Pass
+2025-04-14,Shift 1,FEED8246,L3210,Letter,Feed Line A,272,112.2,0.01,502,6.7,100,0.08,Fail,Pass,Fail,Pass,1028.1,98.08,Not Calibrated,TECH354,Pass
+2025-04-14,Shift 2,FEED8862,EcoTank ET-3850,5x7,Feed Line B,297,125.5,0.84,1047,95.3,192,0.085,Pass,Pass,Pass,Fail,676.5,98.73,Calibrated,TECH887,Fail
+2025-04-14,Shift 2,FEED6836,L3210,Legal,Feed Line C,162,133.7,-0.71,600,52.1,241,0.115,Fail,Fail,Fail,Pass,901.6,97.44,Calibrated,TECH612,Pass
+2025-04-14,Shift 2,FEED9113,WorkForce WF-2850,A4,Feed Line C,298,148.0,0.19,1334,64.5,250,0.112,Fail,Fail,Pass,Pass,948.8,97.5,Not Calibrated,TECH436,Pass
+2025-04-15,Shift 1,FEED4119,WorkForce WF-2850,4x6,Feed Line C,199,147.6,0.84,606,67.9,213,0.134,Pass,Pass,Pass,Fail,1048.5,96.93,Calibrated,TECH850,Pass
+2025-04-15,Shift 1,FEED1100,L3210,A4,Feed Line C,274,75.0,-0.99,723,68.8,194,0.116,Fail,Fail,Pass,Fail,513.5,99.73,Not Calibrated,TECH222,Pass
+2025-04-15,Shift 1,FEED8460,L5290,Letter,Feed Line A,154,110.3,-0.22,1261,76.9,195,0.133,Fail,Fail,Pass,Pass,1094.1,97.88,Not Calibrated,TECH697,Pass
+2025-04-15,Shift 2,FEED8041,L3210,Legal,Feed Line A,157,79.7,0.66,1008,26.0,165,0.101,Pass,Fail,Fail,Pass,530.4,96.71,Not Calibrated,TECH268,Pass
+2025-04-15,Shift 2,FEED3691,WorkForce WF-2850,4x6,Feed Line C,211,51.6,-0.16,1182,82.7,135,0.122,Pass,Pass,Pass,Pass,714.2,99.02,Not Calibrated,TECH430,Fail
+2025-04-15,Shift 2,FEED4919,WorkForce WF-2850,5x7,Feed Line B,249,141.0,0.53,660,22.1,250,0.142,Pass,Pass,Pass,Pass,1161.0,99.99,Calibrated,TECH932,Pass
+2025-04-16,Shift 1,FEED1226,L3210,4x6,Feed Line C,257,127.2,-0.59,579,34.4,232,0.122,Pass,Fail,Fail,Pass,705.7,96.24,Not Calibrated,TECH319,Pass
+2025-04-16,Shift 1,FEED2589,EcoTank ET-2800,Letter,Feed Line B,198,78.2,0.24,1085,99.4,129,0.094,Fail,Fail,Pass,Pass,370.4,95.64,Calibrated,TECH233,Fail
+2025-04-16,Shift 1,FEED8222,WorkForce WF-2850,4x6,Feed Line A,278,116.5,-0.89,1470,20.2,175,0.105,Pass,Pass,Fail,Fail,443.6,98.25,Calibrated,TECH781,Pass
+2025-04-16,Shift 2,FEED2746,L5290,4x6,Feed Line B,255,128.6,0.2,790,85.3,95,0.12,Fail,Pass,Pass,Pass,1057.6,96.34,Not Calibrated,TECH723,Fail
+2025-04-16,Shift 2,FEED3636,WorkForce WF-2850,4x6,Feed Line B,211,74.3,-0.3,694,81.2,230,0.116,Pass,Fail,Fail,Pass,388.6,96.59,Not Calibrated,TECH793,Fail
+2025-04-16,Shift 2,FEED6795,EcoTank ET-2800,Legal,Feed Line B,202,64.1,0.73,696,53.1,98,0.089,Pass,Fail,Fail,Pass,645.9,98.36,Not Calibrated,TECH634,Pass
+2025-04-17,Shift 1,FEED3452,EcoTank ET-3850,Legal,Feed Line A,271,53.0,0.41,666,63.4,90,0.099,Pass,Fail,Fail,Pass,886.5,97.92,Not Calibrated,TECH127,Pass
+2025-04-17,Shift 1,FEED2860,EcoTank ET-3850,5x7,Feed Line C,253,97.9,-0.09,1220,86.6,161,0.126,Fail,Pass,Fail,Pass,979.8,95.48,Calibrated,TECH858,Fail
+2025-04-17,Shift 1,FEED7834,L5290,Legal,Feed Line B,211,50.2,-0.33,1093,82.4,167,0.135,Fail,Pass,Pass,Pass,803.9,97.69,Not Calibrated,TECH890,Fail
+2025-04-17,Shift 2,FEED8749,EcoTank ET-3850,A4,Feed Line B,224,63.1,-0.08,738,81.1,232,0.126,Fail,Fail,Fail,Pass,686.3,98.87,Calibrated,TECH445,Fail
+2025-04-17,Shift 2,FEED8936,WorkForce WF-2850,5x7,Feed Line A,293,149.6,0.45,535,98.2,67,0.101,Fail,Pass,Pass,Pass,1110.3,98.71,Calibrated,TECH618,Fail
+2025-04-17,Shift 2,FEED6651,EcoTank ET-3850,Legal,Feed Line A,259,105.5,-0.1,1373,86.3,163,0.132,Fail,Fail,Fail,Pass,974.6,95.68,Calibrated,TECH523,Fail
+2025-04-18,Shift 1,FEED6046,WorkForce WF-2850,Letter,Feed Line C,251,60.4,-0.87,586,77.8,96,0.142,Pass,Fail,Pass,Fail,344.5,98.37,Calibrated,TECH248,Pass
+2025-04-18,Shift 1,FEED7657,L5290,Legal,Feed Line A,296,142.3,0.65,985,55.4,93,0.148,Fail,Pass,Pass,Pass,1065.7,98.52,Not Calibrated,TECH197,Pass
+2025-04-18,Shift 1,FEED7319,L3210,A4,Feed Line A,270,149.7,0.85,599,11.4,210,0.122,Pass,Fail,Pass,Fail,464.3,99.83,Calibrated,TECH566,Pass
+2025-04-18,Shift 2,FEED5625,L5290,4x6,Feed Line B,199,63.0,-0.69,599,75.0,207,0.097,Pass,Pass,Pass,Pass,984.5,95.98,Calibrated,TECH223,Fail
+2025-04-18,Shift 2,FEED7891,EcoTank ET-3850,Legal,Feed Line A,184,135.7,-0.34,1478,43.0,76,0.101,Pass,Fail,Fail,Pass,413.6,96.98,Calibrated,TECH816,Pass
+2025-04-18,Shift 2,FEED1272,WorkForce WF-2850,Letter,Feed Line B,281,134.6,0.91,1212,28.4,103,0.121,Pass,Pass,Pass,Fail,1033.6,97.55,Not Calibrated,TECH915,Pass
+2025-04-19,Shift 1,FEED6776,L3210,A4,Feed Line C,184,92.2,-0.82,734,49.7,56,0.136,Fail,Fail,Pass,Fail,421.1,96.54,Not Calibrated,TECH145,Pass
+2025-04-19,Shift 1,FEED8244,EcoTank ET-3850,5x7,Feed Line C,274,67.5,0.91,708,56.3,101,0.105,Pass,Fail,Pass,Fail,942.8,98.52,Calibrated,TECH469,Pass
+2025-04-19,Shift 1,FEED9584,L3210,Legal,Feed Line C,178,127.2,-0.02,986,84.3,192,0.12,Fail,Fail,Pass,Pass,928.8,95.23,Calibrated,TECH235,Fail
+2025-04-19,Shift 2,FEED9135,EcoTank ET-3850,4x6,Feed Line C,191,96.5,-0.82,601,32.0,91,0.101,Fail,Fail,Pass,Fail,743.2,95.6,Calibrated,TECH987,Fail
+2025-04-19,Shift 2,FEED7405,EcoTank ET-2800,5x7,Feed Line C,259,79.6,0.81,943,68.5,174,0.093,Fail,Fail,Pass,Fail,459.7,96.45,Not Calibrated,TECH728,Pass
+2025-04-19,Shift 2,FEED2314,L5290,Letter,Feed Line A,241,72.0,-0.4,920,94.5,131,0.128,Pass,Pass,Fail,Pass,1095.5,97.39,Not Calibrated,TECH798,Fail
+2025-04-20,Shift 1,FEED7838,WorkForce WF-2850,5x7,Feed Line B,173,72.8,0.15,1059,23.9,194,0.101,Pass,Fail,Fail,Pass,1015.2,95.84,Not Calibrated,TECH250,Fail
+2025-04-20,Shift 1,FEED2064,EcoTank ET-3850,4x6,Feed Line C,228,68.9,-0.67,858,59.9,123,0.116,Fail,Fail,Fail,Pass,772.8,99.47,Not Calibrated,TECH545,Pass
+2025-04-20,Shift 1,FEED4007,WorkForce WF-2850,A4,Feed Line B,211,60.9,-0.72,973,2.3,62,0.113,Fail,Fail,Pass,Pass,1143.0,96.66,Calibrated,TECH180,Pass
+2025-04-20,Shift 2,FEED1255,L3210,A4,Feed Line B,186,98.7,0.64,1144,73.6,97,0.084,Fail,Pass,Pass,Pass,725.3,99.14,Calibrated,TECH934,Pass
+2025-04-20,Shift 2,FEED2107,EcoTank ET-3850,5x7,Feed Line C,160,89.7,0.66,1043,99.4,116,0.09,Pass,Fail,Pass,Pass,750.1,96.01,Calibrated,TECH645,Fail
+2025-04-20,Shift 2,FEED8065,WorkForce WF-2850,A4,Feed Line A,172,71.4,-0.73,1185,97.3,151,0.112,Fail,Pass,Fail,Pass,1066.1,97.99,Calibrated,TECH473,Fail
+2025-04-21,Shift 1,FEED6771,EcoTank ET-2800,Legal,Feed Line B,268,130.1,-0.42,1444,44.1,57,0.148,Fail,Pass,Pass,Pass,321.5,99.67,Not Calibrated,TECH502,Pass
+2025-04-21,Shift 1,FEED7463,L3210,Legal,Feed Line B,250,117.4,-0.11,826,82.4,99,0.132,Fail,Fail,Pass,Pass,443.4,99.06,Calibrated,TECH688,Fail
+2025-04-21,Shift 1,FEED1044,EcoTank ET-3850,Legal,Feed Line A,289,83.7,0.94,1260,18.4,244,0.106,Fail,Pass,Pass,Fail,954.9,97.78,Not Calibrated,TECH339,Pass
+2025-04-21,Shift 2,FEED1347,WorkForce WF-2850,4x6,Feed Line C,203,93.4,-0.15,1451,92.9,108,0.13,Pass,Pass,Fail,Pass,312.5,98.67,Not Calibrated,TECH240,Fail
+2025-04-21,Shift 2,FEED1290,L3210,Legal,Feed Line A,210,53.2,-0.56,1052,97.5,181,0.084,Fail,Fail,Fail,Pass,680.6,97.01,Not Calibrated,TECH133,Fail
+2025-04-21,Shift 2,FEED6812,L3210,4x6,Feed Line A,151,102.8,0.96,744,0.2,76,0.135,Fail,Fail,Fail,Fail,463.2,98.69,Calibrated,TECH339,Pass
+2025-04-22,Shift 1,FEED1793,EcoTank ET-2800,Legal,Feed Line B,165,133.8,0.59,1094,2.7,178,0.083,Pass,Fail,Fail,Pass,306.6,98.78,Not Calibrated,TECH512,Pass
+2025-04-22,Shift 1,FEED1712,EcoTank ET-2800,Legal,Feed Line A,276,78.8,-0.56,807,16.0,245,0.124,Fail,Pass,Pass,Pass,764.1,95.53,Not Calibrated,TECH745,Fail
+2025-04-22,Shift 1,FEED9706,L3210,Letter,Feed Line A,247,96.7,0.55,753,8.9,226,0.111,Fail,Pass,Fail,Pass,440.2,95.47,Not Calibrated,TECH763,Fail
+2025-04-22,Shift 2,FEED8123,WorkForce WF-2850,Letter,Feed Line B,276,125.9,0.35,1386,91.5,160,0.148,Fail,Pass,Pass,Pass,929.8,98.95,Calibrated,TECH283,Fail
+2025-04-22,Shift 2,FEED9507,EcoTank ET-2800,Letter,Feed Line B,151,149.8,0.24,664,96.7,103,0.12,Pass,Pass,Fail,Pass,445.7,95.95,Not Calibrated,TECH791,Fail
+2025-04-22,Shift 2,FEED3362,EcoTank ET-3850,A4,Feed Line A,194,80.1,-0.22,1091,57.7,139,0.121,Pass,Pass,Pass,Pass,742.5,96.2,Not Calibrated,TECH870,Pass
+2025-04-23,Shift 1,FEED1209,L3210,A4,Feed Line A,267,117.8,-0.3,1097,86.8,105,0.088,Pass,Pass,Fail,Pass,834.6,98.42,Calibrated,TECH166,Fail
+2025-04-23,Shift 1,FEED6090,WorkForce WF-2850,5x7,Feed Line A,178,62.1,0.8,1191,5.9,115,0.146,Pass,Fail,Pass,Pass,738.8,95.19,Calibrated,TECH495,Fail
+2025-04-23,Shift 1,FEED9618,EcoTank ET-2800,4x6,Feed Line B,203,84.2,0.71,599,86.2,65,0.136,Fail,Pass,Fail,Pass,369.2,95.85,Not Calibrated,TECH156,Fail
+2025-04-23,Shift 2,FEED8356,EcoTank ET-2800,4x6,Feed Line B,294,107.9,-0.25,814,28.6,93,0.119,Fail,Fail,Fail,Pass,384.0,98.74,Calibrated,TECH209,Pass
+2025-04-23,Shift 2,FEED5982,WorkForce WF-2850,Letter,Feed Line A,266,115.1,0.47,940,26.9,216,0.124,Pass,Fail,Pass,Pass,841.2,96.41,Not Calibrated,TECH228,Pass
+2025-04-23,Shift 2,FEED4499,L3210,5x7,Feed Line B,197,107.9,0.36,984,8.2,104,0.123,Pass,Pass,Fail,Pass,818.0,97.6,Not Calibrated,TECH483,Pass
+2025-04-24,Shift 1,FEED8944,L3210,Letter,Feed Line B,296,118.5,0.84,1277,50.6,250,0.137,Fail,Fail,Pass,Fail,570.5,98.87,Calibrated,TECH335,Pass
+2025-04-24,Shift 1,FEED9723,L5290,Legal,Feed Line A,169,114.2,0.55,1500,78.5,129,0.118,Pass,Fail,Pass,Pass,843.0,98.81,Calibrated,TECH482,Pass
+2025-04-24,Shift 1,FEED6851,WorkForce WF-2850,Letter,Feed Line C,175,129.9,0.4,1094,17.2,209,0.108,Fail,Fail,Pass,Pass,650.0,99.33,Not Calibrated,TECH348,Pass
+2025-04-24,Shift 2,FEED5998,L3210,4x6,Feed Line B,164,81.6,0.08,769,36.2,196,0.095,Pass,Fail,Fail,Pass,742.1,96.88,Not Calibrated,TECH584,Pass
+2025-04-24,Shift 2,FEED3990,EcoTank ET-3850,Letter,Feed Line A,289,96.8,-0.07,1310,88.6,66,0.083,Fail,Pass,Pass,Pass,525.0,99.7,Not Calibrated,TECH347,Fail
+2025-04-24,Shift 2,FEED7652,EcoTank ET-3850,5x7,Feed Line C,229,76.6,-0.24,1186,20.1,200,0.081,Pass,Pass,Pass,Pass,980.4,97.35,Calibrated,TECH474,Pass
+2025-04-25,Shift 1,FEED4039,L5290,4x6,Feed Line C,239,75.7,-0.16,586,26.7,209,0.127,Fail,Pass,Pass,Pass,859.6,95.27,Calibrated,TECH437,Fail
+2025-04-25,Shift 1,FEED9977,WorkForce WF-2850,4x6,Feed Line B,182,70.5,-0.54,1435,65.8,123,0.135,Fail,Fail,Fail,Pass,1178.2,99.29,Calibrated,TECH179,Pass
+2025-04-25,Shift 1,FEED1790,EcoTank ET-3850,Legal,Feed Line C,258,112.6,-0.87,678,4.5,102,0.15,Fail,Fail,Pass,Fail,500.3,97.22,Calibrated,TECH774,Pass
+2025-04-25,Shift 2,FEED3923,L5290,A4,Feed Line A,208,143.7,-0.26,1178,67.7,152,0.081,Fail,Fail,Fail,Pass,311.8,97.44,Calibrated,TECH885,Pass
+2025-04-25,Shift 2,FEED1823,L3210,Legal,Feed Line C,153,128.5,0.37,777,95.7,141,0.097,Fail,Pass,Pass,Pass,1114.4,98.94,Not Calibrated,TECH299,Fail
+2025-04-25,Shift 2,FEED9992,L3210,A4,Feed Line C,180,99.9,0.56,1150,22.0,197,0.108,Fail,Pass,Pass,Pass,814.3,97.86,Calibrated,TECH376,Pass
+2025-04-26,Shift 1,FEED2338,WorkForce WF-2850,4x6,Feed Line A,261,75.4,0.16,566,45.7,110,0.114,Fail,Fail,Fail,Pass,579.2,96.12,Calibrated,TECH516,Pass
+2025-04-26,Shift 1,FEED6222,EcoTank ET-3850,4x6,Feed Line A,264,114.7,0.77,1298,60.2,53,0.13,Pass,Fail,Pass,Pass,721.7,99.25,Not Calibrated,TECH266,Pass
+2025-04-26,Shift 1,FEED2764,L3210,Legal,Feed Line C,160,136.4,-0.66,523,32.4,86,0.145,Pass,Fail,Pass,Pass,781.9,99.81,Calibrated,TECH542,Pass
+2025-04-26,Shift 2,FEED1863,WorkForce WF-2850,Letter,Feed Line A,161,148.3,0.27,913,11.4,57,0.144,Fail,Pass,Fail,Pass,414.4,96.58,Calibrated,TECH480,Pass
+2025-04-26,Shift 2,FEED8806,EcoTank ET-3850,5x7,Feed Line A,151,97.2,-0.93,724,98.6,138,0.086,Pass,Pass,Pass,Fail,1136.5,99.89,Calibrated,TECH985,Fail
+2025-04-26,Shift 2,FEED1966,L5290,Letter,Feed Line A,297,54.6,0.36,1364,39.2,95,0.102,Fail,Fail,Fail,Pass,786.0,99.99,Not Calibrated,TECH494,Pass
+2025-04-27,Shift 1,FEED5474,L5290,4x6,Feed Line A,183,75.3,0.59,1185,67.0,137,0.119,Pass,Pass,Pass,Pass,1167.5,97.57,Not Calibrated,TECH512,Pass
+2025-04-27,Shift 1,FEED8331,EcoTank ET-2800,5x7,Feed Line C,186,93.3,0.91,864,88.8,135,0.143,Pass,Fail,Fail,Fail,1082.8,99.83,Calibrated,TECH123,Fail
+2025-04-27,Shift 1,FEED7936,L3210,4x6,Feed Line C,266,136.9,-0.73,801,45.4,66,0.141,Fail,Pass,Fail,Pass,640.1,97.97,Not Calibrated,TECH379,Pass
+2025-04-27,Shift 2,FEED7858,EcoTank ET-3850,Letter,Feed Line B,263,80.8,-0.22,676,56.9,144,0.082,Pass,Pass,Pass,Pass,620.5,95.46,Calibrated,TECH447,Fail
+2025-04-27,Shift 2,FEED4114,EcoTank ET-3850,4x6,Feed Line A,221,138.1,0.66,1325,22.9,143,0.124,Pass,Fail,Fail,Pass,969.6,95.16,Not Calibrated,TECH308,Fail
+2025-04-27,Shift 2,FEED1291,L3210,A4,Feed Line B,153,92.8,-0.97,1322,38.8,145,0.112,Pass,Fail,Fail,Fail,454.0,98.61,Not Calibrated,TECH192,Pass
+2025-04-28,Shift 1,FEED3208,WorkForce WF-2850,5x7,Feed Line A,157,100.3,-0.12,1310,72.2,156,0.109,Pass,Pass,Fail,Pass,904.6,97.25,Not Calibrated,TECH366,Pass
+2025-04-28,Shift 1,FEED5583,EcoTank ET-3850,4x6,Feed Line C,191,108.5,-0.38,783,88.6,92,0.086,Pass,Pass,Pass,Pass,879.7,97.0,Calibrated,TECH796,Fail
+2025-04-28,Shift 1,FEED1710,EcoTank ET-2800,5x7,Feed Line B,236,149.9,0.72,603,61.8,97,0.11,Pass,Pass,Pass,Pass,430.0,98.6,Not Calibrated,TECH284,Pass
+2025-04-28,Shift 2,FEED7387,WorkForce WF-2850,Letter,Feed Line B,232,52.9,0.23,636,43.7,135,0.136,Fail,Pass,Fail,Pass,397.9,99.8,Calibrated,TECH130,Pass
+2025-04-28,Shift 2,FEED6789,EcoTank ET-2800,A4,Feed Line C,217,83.0,0.23,823,50.1,186,0.088,Fail,Fail,Fail,Pass,681.4,98.51,Not Calibrated,TECH901,Pass
+2025-04-28,Shift 2,FEED2186,WorkForce WF-2850,A4,Feed Line B,256,147.4,-0.79,1438,72.7,117,0.134,Pass,Pass,Pass,Pass,402.9,97.09,Not Calibrated,TECH604,Pass
+2025-04-29,Shift 1,FEED8858,L5290,4x6,Feed Line B,234,110.5,-0.45,716,92.7,202,0.14,Fail,Fail,Fail,Pass,542.1,99.25,Calibrated,TECH750,Fail
+2025-04-29,Shift 1,FEED7213,L5290,A4,Feed Line A,300,103.3,-0.91,971,0.4,116,0.131,Pass,Fail,Fail,Fail,864.5,95.02,Not Calibrated,TECH906,Fail
+2025-04-29,Shift 1,FEED7913,L5290,Letter,Feed Line A,219,116.7,0.22,902,4.7,167,0.123,Fail,Fail,Pass,Pass,433.4,96.18,Not Calibrated,TECH589,Pass
+2025-04-29,Shift 2,FEED4322,WorkForce WF-2850,Letter,Feed Line C,167,69.8,-0.43,1139,13.2,127,0.08,Fail,Fail,Pass,Pass,1043.5,99.46,Calibrated,TECH628,Pass
+2025-04-29,Shift 2,FEED2480,WorkForce WF-2850,4x6,Feed Line A,223,78.0,0.17,892,85.3,206,0.087,Pass,Fail,Fail,Pass,441.1,95.06,Calibrated,TECH413,Fail
+2025-04-29,Shift 2,FEED9334,EcoTank ET-3850,A4,Feed Line B,246,55.1,-0.64,1134,46.5,51,0.117,Fail,Fail,Pass,Pass,439.7,95.9,Calibrated,TECH159,Fail
+2025-04-30,Shift 1,FEED8501,L5290,Letter,Feed Line A,246,92.0,-0.22,668,82.1,91,0.116,Pass,Fail,Fail,Pass,730.9,98.42,Calibrated,TECH352,Fail
+2025-04-30,Shift 1,FEED4420,L5290,A4,Feed Line C,294,108.3,-0.68,1104,12.5,125,0.128,Fail,Pass,Pass,Pass,1155.4,98.57,Calibrated,TECH848,Pass
+2025-04-30,Shift 1,FEED5210,WorkForce WF-2850,5x7,Feed Line A,237,148.6,0.62,772,42.5,58,0.111,Pass,Fail,Fail,Pass,1000.8,99.72,Not Calibrated,TECH968,Pass
+2025-04-30,Shift 2,FEED3825,L3210,Legal,Feed Line A,220,78.9,0.49,1328,51.4,239,0.122,Fail,Fail,Pass,Pass,652.0,99.36,Calibrated,TECH977,Pass
+2025-04-30,Shift 2,FEED4330,EcoTank ET-3850,Legal,Feed Line B,190,111.7,0.86,992,40.1,119,0.114,Pass,Fail,Pass,Fail,656.5,95.89,Not Calibrated,TECH459,Fail
+2025-04-30,Shift 2,FEED2183,EcoTank ET-3850,4x6,Feed Line A,268,90.6,-0.11,1440,41.7,116,0.146,Pass,Fail,Fail,Pass,391.4,97.52,Not Calibrated,TECH310,Pass
