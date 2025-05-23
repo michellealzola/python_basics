@@ -431,6 +431,3 @@ def mystery(n):
                         # 2log2(n) + 1 --> O(log2(n))
 ```
 
----
-
-Would you like the worked-out solutions or Big-O summaries for these exercises next?
