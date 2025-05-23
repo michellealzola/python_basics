@@ -398,12 +398,13 @@ factorial(3)
 
 ```python
 def count_zeroes(matrix):
-    count = 0
-    for row in matrix:
-        for item in row:
-            if item == 0:
-                count += 1
-    return count
+    count = 0                   # 1
+    for row in matrix:          # n 
+        for item in row:        # n * n = n^2
+            if item == 0:       # n^2 comparisons
+                count += 1      # up to n^2 increments
+    return count                # 1
+                                # 2n^2 + 2 --> O(n^2)
 ```
 
 ---
@@ -412,8 +413,9 @@ def count_zeroes(matrix):
 
 ```python
 def print_even(lst):
-    for i in range(0, len(lst), 2):
-        print(lst[i])
+    for i in range(0, len(lst), 2):     # n / 2 
+        print(lst[i])                   # 1 per n/2 loop
+                                        # n / 2 --> O(n)
 ```
 
 ---
@@ -422,10 +424,11 @@ def print_even(lst):
 
 ```python
 def mystery(n):
-    i = 1
-    while i < n:
-        i *= 2
-        print(i)
+    i = 1               # 1 operation
+    while i < n:        #  log2(n) iterations
+        i *= 2          # 1 operation per iteration
+        print(i)        # 1 operation per iteration
+                        # 2log2(n) + 1 --> O(log2(n))
 ```
 
 ---
