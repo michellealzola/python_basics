@@ -268,13 +268,14 @@ def is_sorted(lst):
 
 ```python
 def multiply_matrix(A, B):
-    n = len(A)
-    result = [[0]*n for _ in range(n)]
-    for i in range(n):
-        for j in range(n):
-            for k in range(n):
-                result[i][j] += A[i][k] * B[k][j]
-    return result
+    n = len(A)                                      # (1)
+    result = [[0]*n for _ in range(n)]              # (n) <- outer loop, each creates n elements -> n^2 operations
+    for i in range(n):                              # n
+        for j in range(n):                          # n
+            for k in range(n):                      # n
+                result[i][j] += A[i][k] * B[k][j]   # 1 (mult + add) = 2 operations
+    return result                                   # 1
+                                                    # 2n^3 + n^2 + 2 --> O(n^3)
 ```
 
 ---
@@ -283,8 +284,9 @@ def multiply_matrix(A, B):
 
 ```python
 def double_elements(lst):
-    for i in range(len(lst)):
-        lst[i] *= 2
+    for i in range(len(lst)):               # n iterations
+        lst[i] *= 2                         # 1 multiplication per iteration
+                                            # n * 1 --> O(n)
 ```
 
 ---
@@ -293,11 +295,102 @@ def double_elements(lst):
 
 ```python
 def factorial(n):
+    if n == 0:                              # n + 1 (1 comparison per call)
+        return 1                            # n (1 return only once)
+    else:
+        return n * factorial(n - 1)         # n + 1 (1 mult + 1 return per call)
+                                            # 3n + 2 --> O(n)
+```
+
+No worries — let’s make this crystal clear with a **table and trace** so you can **see where `n` comes in** and **why the total operations are based on `n`.**
+
+---
+
+## ✅ Code:
+
+```python
+def factorial(n):
     if n == 0:
         return 1
     else:
         return n * factorial(n - 1)
 ```
+
+---
+
+## 💡 What is `n`?
+
+`n` is the **input value** to the function.
+For example:
+`factorial(4)` means `n = 4`
+
+---
+
+## 🔁 What Happens When You Run `factorial(4)`?
+
+Here’s the **call stack**:
+
+| Function Call  | What it does                       |
+| -------------- | ---------------------------------- |
+| `factorial(4)` | 4 \* factorial(3) → multiplication |
+| `factorial(3)` | 3 \* factorial(2) → multiplication |
+| `factorial(2)` | 2 \* factorial(1) → multiplication |
+| `factorial(1)` | 1 \* factorial(0) → multiplication |
+| `factorial(0)` | return 1 → base case               |
+
+✅ That’s a total of **5 calls** for `n = 4` → `n + 1` calls in general.
+
+---
+
+## 🔎 Count the Instructions per Call
+
+Let’s now count the **basic operations** in each call:
+
+| Operation Type       | How many times?           | Why                                   |
+| -------------------- | ------------------------- | ------------------------------------- |
+| `if n == 0:`         | `n + 1` times             | Every call checks the base case       |
+| `return 1`           | 1 time (only at `n == 0`) | Base case is hit once                 |
+| `n * factorial(...)` | `n` times                 | Happens in all calls except base case |
+| `return ...`         | `n` times                 | One return per multiplication call    |
+
+---
+
+## 📊 Summary of Total Operations
+
+| Instruction       | Count    |
+| ----------------- | -------- |
+| Comparisons       | `n + 1`  |
+| Multiplications   | `n`      |
+| Return statements | `n + 1`  |
+| **Total**         | `3n + 2` |
+
+---
+
+## ✅ Final Simplified Answer
+
+* Total operations ≈ `3n + 2` → **We drop constants in Big-O**
+* ✅ **Time Complexity = O(n)**
+* ✅ **Space Complexity = O(n)** (due to recursion call stack)
+
+---
+
+## 🔁 Visual Summary (for `factorial(3)`)
+
+```python
+factorial(3)
+ → 3 * factorial(2)     # 1 comparison + 1 mult + 1 return
+    → 2 * factorial(1)  # 1 comparison + 1 mult + 1 return
+        → 1 * factorial(0)  # 1 comparison + 1 mult + 1 return
+            → 1            # 1 comparison + 1 return
+```
+
+✅ 4 comparisons
+✅ 3 multiplications
+✅ 4 returns
+
+→ `3n + 2` total → **O(n)**
+
+
 
 ---
 
